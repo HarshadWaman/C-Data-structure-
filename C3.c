@@ -1,3 +1,4 @@
+//all arithmetic operations using pointer.
 #include <stdio.h>
 
 void arithmeticOperations(int a, int b) {

@@ -1,3 +1,4 @@
+//string array to linear search.
 #include <stdio.h>
 #include<string.h>
 

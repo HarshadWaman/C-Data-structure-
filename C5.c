@@ -1,4 +1,4 @@
-// bubble sort for string.
+// bubble sort for string
 #include<stdio.h>
 #include<string.h>
 void bubble_sort(char a[10][20],int n)

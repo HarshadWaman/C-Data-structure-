@@ -1,4 +1,4 @@
-//sorting using array of structure
+//sorting using array of structure.
 #include <stdio.h>
 struct employee
 {

@@ -1,4 +1,4 @@
-//binary search
+//binary search.
 #include<stdio.h>
 int search(int a[],int n,int key)
 {

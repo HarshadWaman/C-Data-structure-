@@ -1,4 +1,4 @@
-
+//insertion sort.
 #include<stdio.h>
 void insertion_sort(int a[],int n)
 {

@@ -1,4 +1,4 @@
-
+// insertion sort useing structure.
 #include<stdio.h>
 #include<stdlib.h>
 

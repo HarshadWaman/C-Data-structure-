@@ -1,5 +1,5 @@
-//improve bubble sort.
-//bubble sort for integer number.
+//improve bubble sort..
+//bubble sort for integer number..
 #include<stdio.h>
 void bubble_sort(int a[],int n)
 {

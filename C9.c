@@ -1,4 +1,5 @@
-//merge sort....
+//merge sort...
+// for integer number.
 
 #include<stdio.h>
 void merge(int a[],int low,int mid,int high)
